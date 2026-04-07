@@ -1,2 +1,0 @@
-python-telegram-bot==21.6
-emoji==2.12.1
